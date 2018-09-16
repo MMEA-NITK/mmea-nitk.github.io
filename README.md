@@ -1,2 +1,2 @@
-# mmea-nitk.github.io
-MMEA Website 2018
+# MMEA Website 2018
+
